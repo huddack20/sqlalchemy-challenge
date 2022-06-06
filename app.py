@@ -61,11 +61,11 @@ def welcome():
 </ul>
 <p>Start Day Analysis:</p>
 <ul>
-  <li><a href="/api/v1.0/2018-08-23">/api/v1.0/2017-08-23</a></li>
+  <li><a href="/api/v1.0/2017-08-23">/api/v1.0/2016-08-23</a></li>
 </ul>
 <p>Start & End Day Analysis:</p>
 <ul>
-  <li><a href="/api/v1.0/2017-03-14/2017-08-23">/api/v1.0/2018-08-23/2017-08-23</a></li>
+  <li><a href="/api/v1.0/2017-08-23/2016-08-23">/api/v1.0/2017-08-23/2016-08-23</a></li>
 </ul>
 </html>
 """
